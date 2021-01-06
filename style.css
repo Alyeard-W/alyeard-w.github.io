@@ -93,10 +93,10 @@ footer {
 		font-size: 20px;
 	}
 	h1:hover #name_blue {
-		-webkit-text-stroke: #0091ff;
+		-webkit-text-stroke: 3px #0091ff;
 	}
 
 	h1:hover #name_gray {
-		-webkit-text-stroke: #6d6e71;
+		-webkit-text-stroke: 3px #6d6e71;
 	}
 }

@@ -28,7 +28,7 @@ h1:hover #name_gray {
 
 h2 {
 	color: rgb(25,25,25);
-	font-size: 300%;
+	font-size: 350%;
 	transition: all .1s ease;
 	font-family: Helvetica;
 }
@@ -73,7 +73,7 @@ footer {
 	/* For Smartphones */
 @media only screen and (max-width: 550px) {
 	h1 {
-		font-size: 300%;
+		font-size: 350%;
 		text-align: center;
 	}
 	h2 {
@@ -91,12 +91,5 @@ footer {
 		display: block;
 		margin: 0 auto;
 		font-size: 20px;
-	}
-	h1 #name_blue {
-		-webkit-text-stroke: 3px #0091ff;
-	}
-
-	h1 #name_gray {
-		-webkit-text-stroke: 3px #6d6e71;
 	}
 }
